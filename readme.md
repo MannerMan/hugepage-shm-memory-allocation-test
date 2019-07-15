@@ -1,4 +1,4 @@
-##hugepage-memory-allocator-test:
+## hugepage-memory-allocator-test:
 
 This application is a hacky merge of these two with few changes;
 https://github.com/torvalds/linux/blob/master/tools/testing/selftests/vm/hugepage-shm.c
